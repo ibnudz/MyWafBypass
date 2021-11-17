@@ -1,0 +1,2 @@
+# MyWafBypass
+Waf bypass
